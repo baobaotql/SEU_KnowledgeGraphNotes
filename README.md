@@ -1,11 +1,11 @@
 # SEU_KnowledgeGraphNotes
-感谢东南大学汪鹏老师在github上开源自己的授课课件https://github.com/npubird/KnowledgeGraphCourse/blob/master/README.md
-**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
-
+感谢东南大学汪鹏老师在github上开源自己的授课课件https://github.com/npubird/KnowledgeGraphCourse/blob/master/README.md  
 ##
 **学习进度2019.10.28**
 ###
-**pub-1 知识图谱A B C**
+**pub-1 知识图谱A B C**  
+**课件下载**:[partA](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论A.pdf)   [partB](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论B.pdf)   [partC](https://github.com/npubird/KnowledgeGraphCourse/blob/master/pub-1知识图谱概论C.pdf)
+
 
 1.了解并学习了知识图谱的概念知识   
 2.了解经典知识图谱    
@@ -64,3 +64,15 @@
 
 5.2 数据采集实践
 + 百科 论坛 社交网路爬取实践
+
+##
+**学习进度2019.11.14**
+###
+**pub-6 知识抽取-命名实体识别**
+6.1 实体识别的概念  
+6.2 基于规则和词典的实体识别方法  
+6.3 基于机器学习的实体识别方法  
+6.4 基于深度学习的实体识别方法  
+6.5 基于半监督学习的实体识别方法  
+6.6 基于迁移学习的实体识别方法  
+6.7 基于预训练的实体识别方法  
